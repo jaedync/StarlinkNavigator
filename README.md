@@ -1,6 +1,6 @@
 # StarlinkNavigator
 
-![Satellite Tracking System Interface](images/screenshot.png)
+![Satellite Tracking System Interface](screenshot.png)
 
 ## Overview
 This Python-based Satellite Tracking System is expertly designed for tracking the position of Starlink satellites in real-time. It incorporates Skyfield for precise astronomical calculations, supporting dynamic updates of satellite positions and alerting when satellites fall below a specified altitude threshold.
